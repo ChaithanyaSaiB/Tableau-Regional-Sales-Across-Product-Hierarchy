@@ -13,6 +13,12 @@ This dashboard visualizes regional sales across a product hierarchy using the Su
 - **Segment Filter:** A Segment filter is included for data interactivity.
 - **Dataset:** Superstore dataset.
 
+## Deployed GitHub Page for Dashboard
+
+You can view the Tableau embedded GitHub Page:
+
+[GitHub Page for Regional Sales Across Product Hierarchy](https://chaithanyasaib.github.io/Tableau-Regional-Sales-Across-Product-Hierarchy/)
+
 ## Where to find the Problem Webpage
 
 You can view the Workout Wednesday problem webpage: 
